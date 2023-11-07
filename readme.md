@@ -3,7 +3,7 @@
 Programadores PHP que utilizam o framework CAKEPHP 
 Podem utilizar essa estrutura para a criação de um component que irá facilitar a conexão com a API do facebook marketing
 
-## METODOS BÁSICO DISPONÍVEIS ##
+## METODOS BÁSICOS DISPONÍVEIS ##
 
 ```getURLAuth()```
 
